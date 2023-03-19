@@ -3,3 +3,6 @@ line by line.
 Async is quicker, it starts a task, offload it, and then starts others.
 npm = node package manager: it likes pypi, share all packages,...
 links: npmjs.com 
+create package.json:
+1. npm init => do things step by step
+or 2. npm init -y => skip all questions
