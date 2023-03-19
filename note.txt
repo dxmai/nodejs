@@ -1,0 +1,5 @@
+Sync read file and write file is time consuming. It will read and write file 
+line by line.
+Async is quicker, it starts a task, offload it, and then starts others.
+npm = node package manager: it likes pypi, share all packages,...
+links: npmjs.com 
